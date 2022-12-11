@@ -1,7 +1,7 @@
 
 <h1> Hackerrank Java Solution</h1>
-<ol>
+<ul>
 <li>Java</li>
 <li>Problem Sovling(Algorithm and DataStructure)</li>
 <li>1 Week Preparation Kit</li>
-</ol>
+</ul>
